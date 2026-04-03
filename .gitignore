@@ -1,0 +1,69 @@
+# Virtual Environments
+.venv/
+.env/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE/Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datasets
+dataset/
+data1/
+data2/
+
+# Models & Checkpoints
+*_checkpoint.pth
+# (Uncomment below if you also want to exclude the final models due to size)
+# autoencoder_real.pth
+# cnn_efficientnet.pth
+
+# Document Generation & Extraneous Reports
+generate_final_report_docx.py
+generate_detailed_report.py
+TME_6017_Final_Report.docx
+Final_Project_Report_Detailed.docx
+Final_Project_Report_v2.docx
+TME 6017 Final Project.docx
+report_assets/
+
+# Images & Visualizations
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Debugging, Logs, and Old Iterations
+Untitled*.py
+add_xai_docs.py
+execute_notebooks.py
+fix_notebook*.py
+inject_sanity_check.py
+run_all.py
+sign_scripts.py
+temp_ensemble_code.py
+update_notebooks*.py
+update_xai.py
+pip_log.txt
+execute.log
+01_*.py
+01_*.ipynb
+02_*.py
+02_*.ipynb
+03_*.py
+03_*.ipynb
+04_*.py
+04_*.ipynb
+!optimized_01_data_exploration_preprocessing.ipynb
+!optimized_02_autoencoder.ipynb
+!optimized_03_cnn_classifier.ipynb
+!optimized_04_ensemble_pipeline.ipynb

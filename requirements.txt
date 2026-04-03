@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+opencv-python
+pillow
+numpy
+streamlit
+captum
+shap
+lime
+scikit-image
+matplotlib
+scikit-learn
+python-docx
