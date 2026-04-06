@@ -27,13 +27,7 @@ data2/
 # autoencoder_real.pth
 # cnn_efficientnet.pth
 
-# Document Generation & Extraneous Reports
-generate_final_report_docx.py
-generate_detailed_report.py
-TME_6017_Final_Report.docx
-Final_Project_Report_Detailed.docx
-Final_Project_Report_v2.docx
-TME 6017 Final Project.docx
+
 report_assets/
 
 # Images & Visualizations
@@ -51,7 +45,7 @@ inject_sanity_check.py
 run_all.py
 sign_scripts.py
 temp_ensemble_code.py
-update_notebooks*.py
+
 update_xai.py
 pip_log.txt
 execute.log
