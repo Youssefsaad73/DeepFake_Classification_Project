@@ -26,7 +26,7 @@ By blending the anomaly score and the CNN probability dynamically, the system ac
    cd deepfake-detective
    ```
 2. Download dataset from the drive link:
-  
+    https://drive.google.com/drive/folders/1OISUEZ0XPcrnLiSsR9zmPN68WD8b4T0-?usp=sharing  
 
 3. **Create a Virtual Environment:**
    If you use Anaconda/Miniconda:
